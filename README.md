@@ -19,9 +19,7 @@ The dashboard uses Pivot Tables, Charts, and Slicers to provide actionable insig
 - `EXCEL_SALES_ANALYSIS2.xlsx` → Main project file
 
  ## Screenshot
- ![Dashboard] 
-
-
+ ![Dashboard](dashboard.png)
 
  ## Author
  Samridhi
